@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <div>
       <Container className="d-flex justify-content-center">
-        <h1 className="mx-3"> Products</h1>
+        <h1 className="mx-3"> Add Products</h1>
         <Button variant="success" onClick={goToAddpage}>
           Add +{" "}
         </Button>
